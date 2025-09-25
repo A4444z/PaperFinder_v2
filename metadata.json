@@ -1,0 +1,5 @@
+{
+  "name": "Copy of 学术文献AI助手 (Academic Literature AI Assistant)",
+  "description": "一个使用AI根据关键词搜索、总结学术文献并根据文献内容回答问题的应用。 (An application that uses AI to search and summarize academic literature based on keywords and answer questions based on the content.)",
+  "requestFramePermissions": []
+}
